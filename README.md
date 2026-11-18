@@ -3,13 +3,6 @@
 ## 📌 About Me
 - Hi, I'm **1fachJonaz_** 👋
 - 🇩🇪 I'm from **Germany**.
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-
 </p>
 
 <p align="center">
